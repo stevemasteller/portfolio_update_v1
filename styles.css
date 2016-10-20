@@ -61,15 +61,16 @@ header {
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
-  min-height: 300px;
 }
 
+/* changed the header picture in the experience page */
 header.experience {
   text-align: center;
   background: url('images/rsz_mishawaka8.gif') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
+  min-height: 300px;
 }
 
 header {
