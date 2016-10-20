@@ -4,4 +4,4 @@ A static portfolio page.
 
 Treehouse Front-End Techdegree project 1
 
-My work: some HTML
+My work: some HTML, some CSS

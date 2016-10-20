@@ -61,6 +61,7 @@ header {
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
+  min-height: 300px;
 }
 
 header.experience {
